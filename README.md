@@ -7,7 +7,10 @@
 
     a. Observe the DHCP traffic appearing in WireShark
 
+![image](https://github.com/Searcher121978/Observe-DHCP-Traffic/assets/124515149/9dbccaa6-cffd-426d-80cf-e43951ea334d)
 
-   
+![image](https://github.com/Searcher121978/Observe-DHCP-Traffic/assets/124515149/9fcf16e5-a7d7-4830-9c85-58324fd14aaf)
 
-https://github.com/Searcher121978/Microsoft-Azure-Virtual-Machine-Resource-Group/assets/124515149/3392107f-8673-4c2c-8043-95b1178a6d6b
+
+
+
